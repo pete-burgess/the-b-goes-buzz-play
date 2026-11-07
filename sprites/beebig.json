@@ -1,0 +1,492 @@
+{
+ "frames": {
+  "big_side_stand_up": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_stand_up@l": {
+   "frame": {
+    "x": 29,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_stand_dn": {
+   "frame": {
+    "x": 58,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_stand_dn@l": {
+   "frame": {
+    "x": 87,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_walk_up": {
+   "frame": {
+    "x": 116,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_walk_up@l": {
+   "frame": {
+    "x": 145,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_walk_dn": {
+   "frame": {
+    "x": 174,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_walk_dn@l": {
+   "frame": {
+    "x": 203,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_hover_up": {
+   "frame": {
+    "x": 232,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_hover_up@l": {
+   "frame": {
+    "x": 261,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_hover_dn": {
+   "frame": {
+    "x": 290,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_side_hover_dn@l": {
+   "frame": {
+    "x": 319,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_stand": {
+   "frame": {
+    "x": 348,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_stand@l": {
+   "frame": {
+    "x": 377,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_look": {
+   "frame": {
+    "x": 406,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_look@l": {
+   "frame": {
+    "x": 435,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_scratch_a": {
+   "frame": {
+    "x": 464,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_scratch_a@l": {
+   "frame": {
+    "x": 493,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_scratch_b": {
+   "frame": {
+    "x": 522,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_scratch_b@l": {
+   "frame": {
+    "x": 551,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_hover_up": {
+   "frame": {
+    "x": 580,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_hover_up@l": {
+   "frame": {
+    "x": 609,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_spray_up": {
+   "frame": {
+    "x": 638,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_spray_up@l": {
+   "frame": {
+    "x": 667,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_hover_dn": {
+   "frame": {
+    "x": 696,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_hover_dn@l": {
+   "frame": {
+    "x": 725,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_spray_dn": {
+   "frame": {
+    "x": 754,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_back_spray_dn@l": {
+   "frame": {
+    "x": 783,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_front_stand": {
+   "frame": {
+    "x": 812,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_front_stand@l": {
+   "frame": {
+    "x": 841,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_front_hover_up": {
+   "frame": {
+    "x": 870,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_front_hover_up@l": {
+   "frame": {
+    "x": 899,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_front_hover_dn": {
+   "frame": {
+    "x": 928,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_front_hover_dn@l": {
+   "frame": {
+    "x": 957,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_lean_up": {
+   "frame": {
+    "x": 986,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_lean_up@l": {
+   "frame": {
+    "x": 1015,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_fly_up": {
+   "frame": {
+    "x": 1044,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_fly_up@l": {
+   "frame": {
+    "x": 1073,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_lean_dn": {
+   "frame": {
+    "x": 1102,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_lean_dn@l": {
+   "frame": {
+    "x": 1131,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_fly_dn": {
+   "frame": {
+    "x": 1160,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_fly_dn@l": {
+   "frame": {
+    "x": 1189,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_walk_0": {
+   "frame": {
+    "x": 1218,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_walk_0@l": {
+   "frame": {
+    "x": 1247,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_walk_1": {
+   "frame": {
+    "x": 1276,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_walk_1@l": {
+   "frame": {
+    "x": 1305,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_walk_2": {
+   "frame": {
+    "x": 1334,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_walk_2@l": {
+   "frame": {
+    "x": 1363,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_walk_3": {
+   "frame": {
+    "x": 1392,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_walk_3@l": {
+   "frame": {
+    "x": 1421,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_idle_hunch": {
+   "frame": {
+    "x": 1450,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_idle_hunch@l": {
+   "frame": {
+    "x": 1479,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_idle_droop": {
+   "frame": {
+    "x": 1508,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_idle_droop@l": {
+   "frame": {
+    "x": 1537,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_land": {
+   "frame": {
+    "x": 1566,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_land@l": {
+   "frame": {
+    "x": 1595,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_jump": {
+   "frame": {
+    "x": 1624,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_jump@l": {
+   "frame": {
+    "x": 1653,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_fall": {
+   "frame": {
+    "x": 1682,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  },
+  "big_fall@l": {
+   "frame": {
+    "x": 1711,
+    "y": 0,
+    "w": 28,
+    "h": 26
+   }
+  }
+ },
+ "meta": {
+  "image": "beebig.png",
+  "size": {
+   "w": 1740,
+   "h": 26
+  },
+  "scale": 1
+ }
+}
